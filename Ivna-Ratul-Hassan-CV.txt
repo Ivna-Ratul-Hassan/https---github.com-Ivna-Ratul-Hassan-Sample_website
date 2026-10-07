@@ -1,0 +1,99 @@
+IVNA RATUL HASSAN
+
+Mathematics Researcher / Nonlinear Dynamics & Complex Systems | Physics-Informed Machine Learning
+
+Dhaka, Bangladesh
+Email: ratulhassan7@gmail.com
+Phone: (+88) 01521205221
+LinkedIn: http://www.linkedin.com/in/ivna-ratul-hassan
+Google Scholar: https://scholar.google.com/citations?user=qrW2FQoAAAAJ&hl=en
+
+PROFILE
+Mathematics researcher with a background in nonlinear dynamical systems, chaos theory, and mathematical modeling, complemented by hands-on experience evaluating and training machine learning models for frontier AI systems. Skilled in combining rigorous mathematical analysis, numerical modeling, and data-driven methods to study complex systems. Research interests focus on Scientific Machine Learning, interpretable and reliable AI, uncertainty-aware modeling, and the integration of domain knowledge with modern AI models.
+
+RESEARCH INTEREST
+Scientific Machine Learning & AI for Science
+Explainable & Mechanistic AI
+Reliable and Uncertainty-Aware AI
+Physics-Informed & Hybrid Machine Learning
+Mathematical & Numerical Modeling
+Nonlinear Dynamical Systems & Chaos Theory
+Foundation Models & Multimodal Learning
+Multimodal Representation Learning & Reasoning
+Continual Learning & Reliable Adaptation
+Complex Networked Systems
+
+EDUCATION
+M.Sc. in Mathematics
+Jagannath University, Dhaka, Bangladesh (2023–2024)
+CGPA: 3.78 / 4.00
+Thesis title: Analysis of Chaos and Bifurcation of Some Higher Dimensional Maps
+
+B.Sc. (Honours) in Mathematics
+Jagannath University, Dhaka, Bangladesh (2017–2023)
+CGPA: 3.35 / 4.00
+Bachelor's Project Title: Application Fourier Series in Human Heartbeat and Heat Transfer Equation
+
+Higher School Certificate (H.S.C.)
+Birshreshtha Noor Mohammad Public College, Dhaka, Bangladesh (2016)
+GPA: 5.00 / 5.00
+
+Secondary School Certificate (S.S.C.)
+Shamsul Haque Khan School and College, Dhaka, Bangladesh (2014)
+GPA: 5.00 / 5.00
+
+PROFESSIONAL EXPERIENCE
+Senior Teacher, Mathematics
+Birshreshtha Noor Mohammad Public College
+October 2025 – April 2026
+- Teach mathematics, including calculus, algebra, and discrete structures.
+- Design lectures, assessments, and curriculum materials.
+- Mentor students in problem-solving and mathematical reasoning.
+
+Research Analyst, Sub-Team Leader
+Turing
+October 2024 – August 2025
+- Led a sub-team evaluating large language model outputs for mathematical reasoning tasks.
+- Designed and applied quality-assurance protocols for LLM training data and evaluation datasets.
+
+PUBLICATIONS
+Peer-Reviewed
+- Islam, M. A., Hassan, I. R., & Ahmed, P. (2025). Dynamic Complexity of Fifth-Dimensional Hénon Map with Lyapunov Exponent, Permutation Entropy, Bifurcation Patterns and Chaos. Journal of Computational and Applied Mathematics, 466, 116547, Elsevier.
+- Hassan, I. R., Islam, M. A., & Ahmed, P. (2024). Analytical Approaches to Chaotic Attractors with Permutation Entropy for Pseudo-Random Bit Generation in Dynamical Systems. Jagannath University Journal of Science, 11(2), 108–125.
+
+Manuscripts Under Review
+- Deep Learning Modeling of Fractional-Order Chaotic Dynamics in the Modified Bogdanov Map for Neural Feedback and Cryptographic Applications
+- Dynamical Complexity and Cryptographic Applications of a Novel Tinkerbell Chaotic Map
+
+Current Research / Work in Progress
+- Analysis of Chaotic Attractors in Nonlinear Dynamic Systems and Weather Forecast
+- A Machine Learning-Based Control of Nonlinear Chaotic Systems
+
+TECHNICAL SKILLS
+Programming: Python, MATLAB, Java, C, FORTRAN, Mathematica
+Machine Learning Frameworks: PyTorch, TensorFlow, JAX, Hugging Face
+AI / ML Areas: Large Language Models, Explainable AI, Reinforcement Learning, Diffusion Models, GANs, Transformer Architectures, Neural Networks, Scientific AI
+Scientific & Research Tools: LaTeX, Tableau, Microsoft Access
+
+CERTIFICATIONS
+- 18th NTRCA Examination — Qualified
+- Basic Teachers' Training (Muktopaath)
+- Management Learning (Muktopaath)
+
+EXTRA CURRICULAR ACTIVITIES
+- Participating Math-Olympiad (4th place at JnU annual math-Olympiad)
+- Playing Chess (90 percentile in chess.com)
+- Playing Football (formal vice-captain in 13th batch JnU football team)
+
+LANGUAGES
+Bengali (Native)
+English (Professional)
+
+ACADEMIC REFERENCES
+Prof. Dr. Payer Ahmed
+Vice-Chancellor, Chandpur Science and Technology University
+Email: dr.payerahmed@math.jnu.ac.bd
+
+Md. Asraful Islam
+Assistant Professor, Department of Mathematics, Jagannath University
+Email: asraful@math.jnu.ac.bd
